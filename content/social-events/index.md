@@ -1,6 +1,6 @@
 ---
 title: Social events
-featured_image: img/arras3.jpeg
+featured_image: img/arras6.jpeg
 ---
 
 ## ARRAS AND THE PAYS D'ARTOIS GOOD LIVING IN THE HEART OF HISTORY
@@ -9,12 +9,44 @@ Ideally situated at an equal distance from the great capitals of Northern Europe
 
 ## THE UNUSUAL HISTORY OF A UNIVERSAL CITY
 
-At the crossroads of the great movements of civilisation since Antiquity, Arras has twenty centuries of experience in the art of playing host … Two millennia of eventful history have endowed the Artesian capital with inestimable treasures and countless preserved remains which, even today, shape its heritage and urban landscape. Exploring the city is rather like browsing an open-air museum where the art of living draws new sources of inspiration on a daily basis. Strategic rear base for Julius Caesar and the Emperor Augustus at the dawn of our era, prosperous Late Empire Gallo-Roman city, major artistic and financial European capital in the Middle Ages, cradle of civil and communal freedoms in the Gothic Age, Spanish pied-à-terre in the middle of the Baroque Period, stronghold of the Sun King in the French Baroque era, city of light in the eighteenth century, romantic refuge in Verlaine's century, global battlefield and Martyred Town of the Great War, model child of the Great Reconstruction… The adventure of Arras is a true distillation of European history.
+<section class="flex-ns flex-wrap justify-around mt5">
+    <div class="relative w-100 w-70-l mb4">
+        <div class="relative w-100 mb4 nested-copy-line-height">
+            At the crossroads of the great movements of civilisation since Antiquity, Arras has twenty centuries of experience in the art of playing host … Two millennia of eventful history have endowed the Artesian capital with inestimable treasures and countless preserved remains which, even today, shape its heritage and urban landscape. Exploring the city is rather like browsing an open-air museum where the art of living draws new sources of inspiration on a daily basis. Strategic rear base for Julius Caesar and the Emperor Augustus at the dawn of our era, prosperous Late Empire Gallo-Roman city, major artistic and financial European capital in the Middle Ages, cradle of civil and communal freedoms in the Gothic Age, Spanish pied-à-terre in the middle of the Baroque Period, stronghold of the Sun King in the French Baroque era, city of light in the eighteenth century, romantic refuge in Verlaine's century, global battlefield and Martyred Town of the Great War, model child of the Great Reconstruction… The adventure of Arras is a true distillation of European history.
+        </div>
+    </div>
+    <div class="relative w-100 w-25-l mb4">
+        <div class="relative w-100 mb4 nested-copy-line-height">
+            <div class="bg-white mb3 pa2 gray overflow-hidden">
+                <img src="/ecsqaru23/img/lion.jpeg" alt="The Belfry"/>
+            </div>
+        </div>
+    </div>
+</section>
+
+
 
 ## A SHARE IN HUMANITY'S HERITAGE 
 
-Boasting no fewer than two UNESCO World Heritage listings (for its Belfry and its Citadel), Arras is passionate about assuming its share in humanity and preciously cultivates the eclecticism of its heritage, offering visitors a near-complete panorama of the history of art and architecture: Gallo-Roman archaeological site, Medieval abbey, citadel and military district of the Grand Siècle, the Great Century, Baroque marketplaces, classically inspired lower town district, Art Deco shopping streets... the choice is endless and a certain sense of hedonism invites you to leave things until another time, to sample more delicacies or take refuge in a cosy nest, in town or in the countryside.
-A BACKDROP CRYING OUT TO HOST EVENTS 
+
+<section class="flex-ns flex-wrap justify-around mt5">
+    <div class="relative w-100 w-25-l mb4">
+        <div class="relative w-100 mb4 nested-copy-line-height">
+            <div class="bg-white mb3 pa2 gray overflow-hidden">
+                <img src="/ecsqaru23/img/arras3.jpeg" alt="The citadel"/>
+            </div>
+        </div>
+    </div>
+    <div class="relative w-100 w-70-l mb4">
+        <div class="relative w-100 mb4 nested-copy-line-height">
+            Boasting no fewer than two UNESCO World Heritage listings (for its Belfry and its Citadel), Arras is passionate about assuming its share in humanity and preciously cultivates the eclecticism of its heritage, offering visitors a near-complete panorama of the history of art and architecture: Gallo-Roman archaeological site, Medieval abbey, citadel and military district of the Grand Siècle, the Great Century, Baroque marketplaces, classically inspired lower town district, Art Deco shopping streets... the choice is endless and a certain sense of hedonism invites you to leave things until another time, to sample more delicacies or take refuge in a cosy nest, in town or in the countryside.
+        </div>
+    </div>
+</section>
+
+
+## A BACKDROP CRYING OUT TO HOST EVENTS 
+
 In the minds of the people of Arras, the architectural jewels are just made to be occupied, lived in... with an authentic gift for good living. Faithful to its artistic and trading origins, Arras is a lively city all year round, with colourful markets, café terraces, traditional restaurants, unique eateries, themed bars, food outlets, artisan creators and fascinating boutiques which draw visitors into a warm and friendly atmosphere. Not a month goes by without a festival, a traditional celebration, a major exhibition, an urban installation, in addition to hundreds of cultural and artistic events scheduled every year.
 
 ## A HISTORY ENTWINED WITH THE PAYS D'ARTOIS
@@ -31,19 +63,61 @@ Originally developed to host enormous markets, from as far back as the twelfth c
 
 ### The Place des Héros
 
-Formerly called the Petit Marché (Small Market) it continues to fulfil its nine century-long role of holding the Wednesday and Saturday morning markets. In the seventeenth and eighteenth centuries, the houses on the Place des Héros and the Grand'Place were rebuilt in brick and stone with Flemish gables. Strictly enforced town planning rules gave rise to this architectural ensemble of 155 Baroque facades overlooking the two squares. After the ravages of the First World War, the architect Pierre Paquet undertook an identical reconstruction and restored this urban landscape, unrivalled in Europe. It has been called the Place des Héros in tribute to the resistance fighters of Arras who were shot during the Second World War. Markings on the ground trace the former position of the Chapel of the Holy Candle in the centre of the Place des Héros. Built in 1200 on the market square, the chapel with its 28-metre high pyramid tower, held the reliquary of the Holy Candle of Arras. This chapel was demolished in 1791.
+<section class="flex-ns flex-wrap justify-around mt5">
+    <div class="relative w-100 w-70-l mb4">
+        <div class="relative w-100 mb4 nested-copy-line-height">
+            Formerly called the Petit Marché (Small Market) it continues to fulfil its nine century-long role of holding the Wednesday and Saturday morning markets. In the seventeenth and eighteenth centuries, the houses on the Place des Héros and the Grand'Place were rebuilt in brick and stone with Flemish gables. Strictly enforced town planning rules gave rise to this architectural ensemble of 155 Baroque facades overlooking the two squares. After the ravages of the First World War, the architect Pierre Paquet undertook an identical reconstruction and restored this urban landscape, unrivalled in Europe. It has been called the Place des Héros in tribute to the resistance fighters of Arras who were shot during the Second World War. Markings on the ground trace the former position of the Chapel of the Holy Candle in the centre of the Place des Héros. Built in 1200 on the market square, the chapel with its 28-metre high pyramid tower, held the reliquary of the Holy Candle of Arras. This chapel was demolished in 1791.
+        </div>
+    </div>
+    <div class="relative w-100 w-25-l mb4">
+        <div class="relative w-100 mb4 nested-copy-line-height">
+            <div class="bg-white mb3 pa2 gray overflow-hidden">
+                <img src="/ecsqaru23/img/place-heros.jpeg" alt="Place des Héros"/>
+                <img src="/ecsqaru23/img/place-heros-2.jpeg" alt="Place des Héros"/>
+            </div>
+        </div>
+    </div>
+</section>
 
-### The belfry 
+### The belfry
 
-Starting in 1463, the construction of the Belfry was completed almost a century later in 1554, under the oversight of the architect Jacques le Caron, who surmounted it with the crown of the Emperor Charles V. At the very top stands the lion of Arras, the city's heraldic beast. 75 metres tall, the Belfry is the symbol of municipal liberties. Destroyed by German artillery in October 1914, it was reconstructed à identically by Pierre Paquet between 1924 and 1932. Access to the first level of the Belfry, starting from the basement of the Tourist Office, by lift (+ 40 steps) to a height of 55m for a panoramic view over the town.
+<section class="flex-ns flex-wrap justify-around mt5">
+    <div class="relative w-100 w-25-l mb4">
+        <div class="relative w-100 mb4 nested-copy-line-height">
+            <div class="bg-white mb3 pa2 gray overflow-hidden">
+                <img src="/ecsqaru23/img/beffroi.jpeg" alt="The belfry"/>
+            </div>
+        </div>
+    </div>
+    <div class="relative w-100 w-70-l mb4">
+        <div class="relative w-100 mb4 nested-copy-line-height">
+            Starting in 1463, the construction of the Belfry was completed almost a century later in 1554, under the oversight of the architect Jacques le Caron, who surmounted it with the crown of the Emperor Charles V. At the very top stands the lion of Arras, the city's heraldic beast. 75 metres tall, the Belfry is the symbol of municipal liberties. Destroyed by German artillery in October 1914, it was reconstructed à identically by Pierre Paquet between 1924 and 1932. Access to the first level of the Belfry, starting from the basement of the Tourist Office, by lift (+ 40 steps) to a height of 55m for a panoramic view over the town.
+        </div>
+    </div>
+</section>
+
+
 
 ### The Town Hall, an Art déco masterpiece
 
 Constructed in the early sixteenth century in the purest Flamboyant Gothic style, the Town Hall housed the market hall and the aldermen's chamber. Two wings were later added to complete the building. One to the south, of Renaissance inspiration, in 1572. The second to the north, decorated with numerous decorative motifs, was constructed under Napoleon III. Destroyed during the First World War, it was identically reconstructed by Pierre Paquet, Architect-in-Chief for Historical Monuments. The Town Hall invites you into its prestigious function rooms, created in the aftermath of the First World War. The interior of the Town Hall exemplifies the Art Deco style, honored during the reconstruction. Admire the paintings, sculptures and wrought ironwork executed in the 1930s by the greatest craftsmen of their art and which adorn the Guard Room, the Reception Hall, the Wedding Hall and the Council Chamber.
 
-### Tasting of local beers and cheeses 
+### Tasting of local beers and cheeses
 
-Share a gourmet moment, in the prestigious function rooms of the Town Hall, around an essential of the territory, a beer and cheese tasting and discover typical products of our region. We have selected for you three beers brewed in Artois. Come and taste them and enjoy the 3 regional cheeses that go with them.
+<section class="flex-ns flex-wrap justify-around mt5">
+    <div class="relative w-100 w-25-l mb4">
+        <div class="relative w-100 mb4 nested-copy-line-height">
+            <div class="bg-white mb3 pa2 gray overflow-hidden">
+                <img src="/ecsqaru23/img/cheese.jpeg" alt="The belfry"/>
+            </div>
+        </div>
+    </div>
+    <div class="relative w-100 w-70-l mb4">
+        <div class="relative w-100 mb4 nested-copy-line-height">
+            Share a gourmet moment, in the prestigious function rooms of the Town Hall, around an essential of the territory, a beer and cheese tasting and discover typical products of our region. We have selected for you three beers brewed in Artois. Come and taste them and enjoy the 3 regional cheeses that go with them.
+        </div>
+    </div>
+</section>
 
 ### The Wellington Tunnels
 
