@@ -9,4 +9,4 @@ Jesse Davis is a Professor in the CS department at KU Leuven, Belgium. His resea
 
 Jesse co-founded and serves on the board of directors of the KU Leuven spinoff runeasi. This company offers a wearable solution that provided real-time biomechanical feedback about an individual’s running pattern.
 
-![](/img/jdavis-headshot.jpg)
+![](/ecsqaru23/img/jdavis-headshot.jpg)
