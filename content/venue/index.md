@@ -12,11 +12,11 @@ The Université d’Artois is located within a walking distance from the Arras S
 ### Plan of the campus
 
 <html>
-    <object type="application/pdf" name="PDF" id="PDF" width="100%" height="625px" data="http://www.cril.univ-artois.fr/ieaaie2017/campus.pdf">
+    <object type="application/pdf" name="PDF" id="PDF" width="100%" height="625px" data="https://www.cril.univ-artois.fr/ieaaie2017/campus.pdf">
     </object>
 </html>
 
-[Plan in full size (pdf)](http://www.cril.univ-artois.fr/ieaaie2017/campus.pdf)
+[Plan in full size (pdf)](https://www.cril.univ-artois.fr/ieaaie2017/campus.pdf)
 
 ## How to reach Arras?
 
