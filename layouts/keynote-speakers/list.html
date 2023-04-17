@@ -1,0 +1,22 @@
+{{ define "main" }}
+    <article class="pa3 pa4-ns nested-copy-line-height nested-img">
+        <main>
+            {{ range (where .Site.RegularPages "Section" "keynote-speakers") }}
+                <section class="flex-ns flex-wrap justify-around mt5">
+                    <div class="relative w-100 w-20-l mb4">
+                        <div class="relative w-100 mb4 nested-copy-line-height">
+                            <div class="bg-white mb3 pa2 gray overflow-hidden">
+                                <img src="{{.Params.image}}" alt="{{.Params.title}}"/>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="relative w-100 w-75-l mb4">
+                        <div class="relative w-100 mb4 nested-copy-line-height">
+                            {{ .Content }}
+                        </div>
+                    </div>
+                </section>
+            {{ end }}
+        </main>
+    </article>
+{{ end }}
