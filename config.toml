@@ -41,6 +41,12 @@ cover_dimming_class = "bg-black-50"
     identifier = "venue"
     url = "/venue/"
 
+    [[menu.main]]
+    weight = 1100
+    name = "Social events"
+    identifier = "social"
+    url = "/social-events/"
+
 #    [[menu.main]]
 #    weight = 200
 #    name = "Program"
