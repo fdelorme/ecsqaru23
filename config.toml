@@ -47,11 +47,11 @@ cover_dimming_class = "bg-black-50"
     identifier = "social"
     url = "/social-events/"
 
-#    [[menu.main]]
-#    weight = 200
-#    name = "Program"
-#    identifier = "program"
-#    url = "/program/"
+    [[menu.main]]
+    weight = 1200
+    name = "Submission"
+    identifier = "Submission"
+    url = "/submission"
 
 #    [[menu.main]]
 #    weight = 400
