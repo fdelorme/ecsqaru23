@@ -23,8 +23,9 @@ Please read the following instructions carefully:
 - authors should prepare their conference papers in the LNCS/LNAI format;
 - papers must not exceed 10 pages, excluding references;
 - papers must be submitted electronically through [EasyChair](https://easychair.org/conferences/?conf=ecsqaru2023).
-Papers that are not in the stated format or that exceed the page limit
-will not be reviewed.
+- submission will be reviewed by peers using a single-blind process (only reviewers are anonymous).
+
+Papers that are not in the stated format or that exceed the page limit will not be reviewed.
 
 Extended versions of selected papers will be published in a special issue of the International Journal of Approximate Reasoning after the conference.
 
