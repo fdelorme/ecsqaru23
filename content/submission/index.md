@@ -6,7 +6,6 @@ LECTURE NOTES IN ARTIFICIAL INTELLIGENCE
 
 ### SUBMISSION
 CFP to download [here](https://easychair.org/)
-Poster to download here (https://easychair.org/)
 
 In accordance with the previous conferences, the proceedings of
 ECSQARU 2023 will be published in the Springer LNCS/LNAI Lecture Notes
