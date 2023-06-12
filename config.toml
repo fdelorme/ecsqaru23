@@ -36,6 +36,12 @@ cover_dimming_class = "bg-black-50"
     url = "/keynote-speakers/"
 
     [[menu.main]]
+    weight = 200
+    name = "Workshops"
+    identifier = "workshops"
+    url = "/workshops/"
+
+    [[menu.main]]
     weight = 1000
     name = "Venue"
     identifier = "venue"
