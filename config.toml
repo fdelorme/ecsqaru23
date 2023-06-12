@@ -37,9 +37,9 @@ cover_dimming_class = "bg-black-50"
 
     [[menu.main]]
     weight = 200
-    name = "Workshops"
-    identifier = "workshops"
-    url = "/workshops/"
+    name = "Workshop"
+    identifier = "workshop"
+    url = "/workshop/"
 
     [[menu.main]]
     weight = 1000
