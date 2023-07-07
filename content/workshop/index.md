@@ -28,6 +28,10 @@ We welcome both abstract of presentations as well as longer papers of up to 6 pa
 * 15th July : feedbacks (in case of paper submission)
 * 19th September : workshop day.
 
+### Submissions
+
+Submisions can be directly emailed to [Sebastien Destercke](mailto:sebastien.destercke@hds.utc.fr)
+
 ### Organizers
 
 Wassila Ouerdane, Sébastien Destercke, with the support of the workgroup Explicon of GDR RADIA.
