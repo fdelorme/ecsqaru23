@@ -8,9 +8,9 @@ You can register online [here]()
 
 All registration types include: Workshops Sessions, Workshops Lunch, Workshops Coffee Breaks, Conference Sessions, Conference Proceedings, Conference Lunches, Conference Coffee Breaks, Welcome Reception and Gala dinner.
 
-|                    | Early registration | Late Registration, after July, 20th |
-|--------------------|--------------------|-------------------------------------|
-| Regular            |         550        |                                     |
-| Student            |         350        |                                     |
-| Gala dinner ticket |         100        |                                     |
-| Welcome reception  |         50         |                                     |
+|                          | Early registration | Late Registration, after July, 20th |
+|--------------------------|--------------------|-------------------------------------|
+| Regular                  |         550        |                 750                 |
+| Student                  |         350        |                 500                 |
+| Extra gala dinner ticket |         100        |                 120                 |
+| Extra welcome reception  |         50         |                  70                 |
