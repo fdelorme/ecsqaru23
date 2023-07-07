@@ -66,12 +66,11 @@ cover_dimming_class = "bg-black-50"
 #    url = "/committees/"
 
 
-
-#    [[menu.main]]
-#    weight = 600
-#    name = "Registration"
-#    identifier = "registration"
-#    url = "/registration/"
+    [[menu.main]]
+    weight = 1300
+    name = "Registration"
+    identifier = "registration"
+    url = "/registration/"
 
 #    [[menu.main]]
 #    weight = 700
