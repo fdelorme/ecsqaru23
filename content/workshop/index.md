@@ -30,7 +30,7 @@ We welcome both abstract of presentations as well as longer papers of up to 6 pa
 
 ### Submissions
 
-Submisions can be directly emailed to [Sebastien Destercke](mailto:sebastien.destercke@hds.utc.fr)
+Submisions can be directly emailed to [Sebastien Destercke](mailto:sebastien.destercke@hds.utc.fr) and [Wassila Ouerdane](mailto:wassila.ouerdane@centralesupelec.fr)
 
 ### Organizers
 
