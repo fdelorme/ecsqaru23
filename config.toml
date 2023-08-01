@@ -63,7 +63,7 @@ cover_dimming_class = "bg-black-50"
     weight = 1300
     name = "Accepted papers"
     identifier = "Accepted papers"
-    url = "/cacceptedpapers/"
+    url = "/acceptedpapers/"
 
     [[menu.main]]
     weight = 1400
