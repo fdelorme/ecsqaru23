@@ -9,14 +9,10 @@ ECSQARU 2023 will take place at the [Université d’Artois](https://www.univ-ar
 
 The Université d’Artois is located within walking distance from the Arras SNCF train station. The conference is organised in person and will take place on 19-22 September 2023 in the "La Maison de la Recherche" building.  
 
-### Plan of the campus
-
 <html>
     <object type="application/pdf" name="PDF" id="PDF" width="100%" height="625px" data="https://www.univ-artois.fr/sites/default/files/2019-09/universitedartois-planducampusarras-septembre2018-web.pdf">
     </object>
 </html>
-
-
 
 
 ## How to reach Arras?
