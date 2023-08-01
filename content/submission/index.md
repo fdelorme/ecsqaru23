@@ -1,5 +1,5 @@
 ---
-title: Registration
+title: Submission
 ---
 ### PROCEEDINGS
 LECTURE NOTES IN ARTIFICIAL INTELLIGENCE 
