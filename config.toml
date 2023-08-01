@@ -59,15 +59,14 @@ cover_dimming_class = "bg-black-50"
     identifier = "Submission"
     url = "/submission"
 
-#    [[menu.main]]
-#    weight = 400
-#    name = "Committees"
-#    identifier = "committees"
-#    url = "/committees/"
-
-
     [[menu.main]]
     weight = 1300
+    name = "Accepted papers"
+    identifier = "Accepted papers"
+    url = "/cacceptedpapers/"
+
+    [[menu.main]]
+    weight = 1400
     name = "Registration"
     identifier = "registration"
     url = "/registration/"
