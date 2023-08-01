@@ -18,58 +18,58 @@ cover_dimming_class = "bg-black-50"
 [menu]
 
     [[menu.main]]
-    weight = 300
+    weight = 100
     name = "Call for papers"
     identifier = "call"
     url = "/call/"
 
     [[menu.main]]
-    weight = 500
-    name = "Important dates"
-    identifier = "dates"
-    url = "/dates/"
-
-    [[menu.main]]
-    weight = 100
-    name = "Keynote speakers"
-    identifier = "keynote"
-    url = "/keynote-speakers/"
-
-    [[menu.main]]
     weight = 200
-    name = "Workshop"
-    identifier = "workshop"
-    url = "/workshop/"
-
-    [[menu.main]]
-    weight = 1000
-    name = "Venue"
-    identifier = "venue"
-    url = "/venue/"
-
-    [[menu.main]]
-    weight = 1100
-    name = "Social events"
-    identifier = "social"
-    url = "/social-events/"
-
-    [[menu.main]]
-    weight = 1200
     name = "Submission"
     identifier = "Submission"
     url = "/submission"
 
     [[menu.main]]
-    weight = 1300
+    weight = 300
+    name = "Keynote speakers"
+    identifier = "keynote"
+    url = "/keynote-speakers/"
+
+    [[menu.main]]
+    weight = 400
+    name = "Workshop"
+    identifier = "workshop"
+    url = "/workshop/"
+    
+    [[menu.main]]
+    weight = 500
     name = "Accepted papers"
     identifier = "Accepted papers"
     url = "/acceptedpapers/"
 
     [[menu.main]]
-    weight = 1400
+    weight = 600
+    name = "Venue"
+    identifier = "venue"
+    url = "/venue/"
+
+    [[menu.main]]
+    weight = 700
+    name = "Social events"
+    identifier = "social"
+    url = "/social-events/"
+
+    [[menu.main]]
+    weight = 800
     name = "Registration"
     identifier = "registration"
     url = "/registration/"
+
+ #   [[menu.main]]
+ #   weight = 500
+ #   name = "Important dates"
+ #   identifier = "dates"
+ #   url = "/dates/"
 
 #    [[menu.main]]
 #    weight = 700
