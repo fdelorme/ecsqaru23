@@ -5,7 +5,7 @@ featured_image: img/arras3.jpeg
 
 The biennial ECSQARU conferences constitute a major forum for advances in the theory and practice of reasoning under uncertainty, with a focus on bringing symbolic and quantitative aspects together. Contributions come from researchers interested in advancing scientific knowledge and from practitioners using uncertainty techniques in real-world applications. The scope of the ECSQARU conferences encompasses fundamental issues, representation, inference, learning, and decision-making in qualitative and numeric uncertainty paradigms.
 
-### important dates
+### Important dates
 
 ~~May 20~~, June 4 2023:       	Abstract and Paper submission deadline  
 ~~June 14~~, July 1 2023:      	Author notification  
