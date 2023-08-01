@@ -3,16 +3,20 @@ title: Social events
 featured_image: img/arras6.jpeg
 ---
 
-## ARRAS AND THE PAYS D'ARTOIS GOOD LIVING IN THE HEART OF HISTORY
+# ABOUT ARRAS 
 
-Ideally situated at an equal distance from the great capitals of Northern Europe, less than two hours from London and Brussels and just 50 minutes from Paris, the Pays d'Artois is the favoured destination for lovers of wonderful getaways seeking escape for the length of a relaxing weekend, an event-filled week or inspiring holidays. The unique architectural environment of the Artesian capital, the timeless charm of the surrounding countryside and the characterful villages of the Pays d'Artois, create a backdrop that is out of time, shaped by 20 centuries of history, where nature and heritage combine their gifts to nurture an authentic gentle lifestyle and to cultivate the art of wonderful encounters.
+### Arras and the pays d'Artois good living in the heart of history
 
-## THE UNUSUAL HISTORY OF A UNIVERSAL CITY
+
+Ideally situated at an equal distance from the great capitals of Northern Europe, less than two hours from London and Brussels and just 50 minutes from Paris, the Pays d'Artois is the favoured destination for lovers of wonderful getaways seeking escape for the length of a relaxing weekend, an event-filled week or inspiring holidays. The unique architectural environment of the Artesian capital, the timeless charm of the surrounding countryside and the characterful villages of the Pays d'Artois create a backdrop that is out of time, shaped by 20 centuries of history, where nature and heritage combine their gifts to nurture an authentic gentle lifestyle and to cultivate the art of wonderful encounters.
+
+### The unusual history of a universal city
+
 
 <section class="flex-ns flex-wrap justify-around mt5">
     <div class="relative w-100 w-70-l mb4">
         <div class="relative w-100 mb4 nested-copy-line-height">
-            At the crossroads of the great movements of civilisation since Antiquity, Arras has twenty centuries of experience in the art of playing host … Two millennia of eventful history have endowed the Artesian capital with inestimable treasures and countless preserved remains which, even today, shape its heritage and urban landscape. Exploring the city is rather like browsing an open-air museum where the art of living draws new sources of inspiration on a daily basis. Strategic rear base for Julius Caesar and the Emperor Augustus at the dawn of our era, prosperous Late Empire Gallo-Roman city, major artistic and financial European capital in the Middle Ages, cradle of civil and communal freedoms in the Gothic Age, Spanish pied-à-terre in the middle of the Baroque Period, stronghold of the Sun King in the French Baroque era, city of light in the eighteenth century, romantic refuge in Verlaine's century, global battlefield and Martyred Town of the Great War, model child of the Great Reconstruction… The adventure of Arras is a true distillation of European history.
+            At the crossroads of the great movements of civilisation since Antiquity, Arras has twenty centuries of experience in the art of playing host … Two millennia of eventful history have endowed the Artesian capital with inestimable treasures and countless preserved remains which, even today, shape its heritage and urban landscape. Exploring the city is rather like browsing an open-air museum where the art of living draws new sources of inspiration on a daily basis. The strategic rear base for Julius Caesar and Emperor Augustus at the dawn of our era, prosperous Late Empire Gallo-Roman city, major artistic and financial European capital in the Middle Ages, cradle of civil and communal freedoms in the Gothic Age, Spanish pied-à-terre in the middle of the Baroque Period, stronghold of the Sun King in the French Baroque era, city of light in the eighteenth century, a romantic refuge in Verlaine's century, global battlefield and Martyred Town of the Great War, model child of the Great Reconstruction… The adventure of Arras is a true distillation of European history.
         </div>
     </div>
     <div class="relative w-100 w-25-l mb4">
@@ -26,7 +30,7 @@ Ideally situated at an equal distance from the great capitals of Northern Europe
 
 
 
-## A SHARE IN HUMANITY'S HERITAGE 
+### A share in humanity's heritage 
 
 
 <section class="flex-ns flex-wrap justify-around mt5">
@@ -45,17 +49,18 @@ Ideally situated at an equal distance from the great capitals of Northern Europe
 </section>
 
 
-## A BACKDROP CRYING OUT TO HOST EVENTS 
+### A backdrop crying out to host events 
+
 
 In the minds of the people of Arras, the architectural jewels are just made to be occupied, lived in... with an authentic gift for good living. Faithful to its artistic and trading origins, Arras is a lively city all year round, with colourful markets, café terraces, traditional restaurants, unique eateries, themed bars, food outlets, artisan creators and fascinating boutiques which draw visitors into a warm and friendly atmosphere. Not a month goes by without a festival, a traditional celebration, a major exhibition, an urban installation, in addition to hundreds of cultural and artistic events scheduled every year.
 
-## A HISTORY ENTWINED WITH THE PAYS D'ARTOIS
+### A history entwined with the Pays d'Artois
 
 The long-established agricultural capital is never very far from its original cradle. The Artois countryside begins just a few hundred metres from the historic centre, beyond the boulevards that mark the location of the former fortifications. Inextricably linked with the legendary breadbasket of France, it is savoured as a natural extension of the good living to be had in Arras. The Scarpe Valley, which crosses the Pays d'Artois from west to east, constitutes the backbone of the territory, almost entirely dedicated to open-air leisure and fitness activities. On either side, vast plains and the first Artois hills extend as far as the eye can see. This is the home of châteaux, attired in their eighteenth-century splendour, the remains of once-powerful abbeys, hamlets of white stone offering glimpses of discreet farms with square courtyards, small village squares decked with flowers, some overlooked by characteristic churches with the emblematic flèches à crochet pointed spires... all punctuate walking routes that run through landscapes of astonishing variety. It is also the land of Mother Earth, where market gardeners, livestock farmers, fish farmers, beekeepers and ecofarmers perpetuate and renew the age-old tradition of short supply circuits between town and country. From north to south, and passing through the east of Arras, it is also a land of remembrance, where hundreds of military cemeteries and monuments to all nationalities tell the story of a global battlefield at the dawn of the twentieth century.
 
-## Proposed events
+# SOCIAL EVENTS 
 
-### The squares of Arras
+### Visit the squares of Arras
 
 Squares for emotion... The epicentre of the city’s famed art of living, the squares - with their centuries-old and colourful markets, their café terraces, their restaurants nestling in cellars or under archways, their themed bars, their shops offering delicacies and local specialities - seem to have been designed from the outset to create endless enjoyment and exchanges. The uninterrupted run of the 155 Baroque facades surrounding the Grand'Place and the Place des Héros form an architectural ensemble that is without peer in Europe, providing a sumptuous setting for the Town Hall and its Belfry. Behind-the-scenes visits of this exceptional décor are possible, "from cellar to attic": from the underground circuit of the Boves to the prestigious Town Hall function rooms and the first level of the Belfry, to take in a panoramic vista over the city and its surrounding countryside.
 The Grand’Place of Arras
@@ -108,7 +113,7 @@ Constructed in the early sixteenth century in the purest Flamboyant Gothic style
     <div class="relative w-100 w-25-l mb4">
         <div class="relative w-100 mb4 nested-copy-line-height">
             <div class="bg-white mb3 pa2 gray overflow-hidden">
-                <img src="/ecsqaru23/img/cheese.jpeg" alt="The belfry"/>
+                <img src="/ecsqaru23/img/cheese.jpeg" alt="cheese"/>
             </div>
         </div>
     </div>
@@ -122,3 +127,9 @@ Constructed in the early sixteenth century in the purest Flamboyant Gothic style
 ### The Wellington Tunnels
 
 20 metres below the pavements of Arras, discover the Wellington tunnels, a site immersed in memory and emotion. In November 1916, the British started preparing for the 1917 spring offensive. Their stroke of genius: to have the New Zealand tunnellers connect up the town's chalk extraction tunnels to create a real network of underground barracks large enough to accommodate up to 24,000 soldiers. After a 20-metre descent in a glass-fronted lift, the audio guided and escorted visit plunges the visitor into the site’s atmosphere. A strategic location as well as a living space, the Quarry, named Wellington by the New Zealand sappers, preserves the memory of those thousands of soldiers quartered underground just a few metres from the front, before launching themselves onto the field of battle on 9th April 1917 at 5.30 in the morning, in a surprise attack on the German positions. Through the projection of a film, coming to the surface in the soldiers’ footsteps bring the shock of battle to life. Site accessible to persons with reduced mobility.
+
+### Gala Dinner at the Arras golf course
+
+Cocktail Reception & Banquet at [FAIRWAY HOTEL & SPA – ARRAS GOLF COURSE](https://www.hotel-spa-fairway.com/en/)
+
+
