@@ -1,5 +1,79 @@
 ---
-title: Committees
+title: Organization
 ---
 
-TBA 
+# Program chairs
+ - Zied Bouraoui (CRIL, Université d’Artois - CNRS)
+ - Said Jabbour  (CRIL, Université d’Artois - CNRS)
+ - Srdjan Vesic (CRIL, Université d’Artois - CNRS)
+
+# Program committee
+
+- Weiru	Liu	(University of Bristol)
+- Eduardo	Fermé	(Universidade da Madeira, Portugal)
+- Zied	Elouedi	(Institut Supérieur de Gestion de Tunis)
+- Anthony	Hunter	(University College London)
+- Laura	Giordano	(DISIT, Università del Piemonte Orientale)
+- Ulrich	Junker	(Biot, France) 
+- David	Mercier	(Université d'Artois)
+- Marie-Christine	Lagasquie-Schiex	(IRIT - Universite Paul Sabatier)
+- Nico	Potyka	(Imperial College London)
+- Isabelle	Bloch	(ENST - CNRS UMR 5141 LTCI)
+- Sébastien	Konieczny	(CRIL - CNRS)
+- Emil	Weydert	(CSC, University of Luxembourg)
+- Choh Man	Teng	(Institute for Human and Machine Cognition)
+- Sébastien	Destercke	(CNRS, UMR Heudiasyc)
+- Nourhan	Ehab	(German University in Cairo)
+- Thierry	Denoeux	(Universite de Technologie de Compiegne)
+- Enrique	Miranda	(University of Oviedo)
+- Thomas	Lukasiewicz	(University of Oxford)
+- Lluis	Godo	(Artificial Intelligence Research Institute, IIIA - CSIC)
+- Andrés	Cano	(University of Granada)
+- Fabio	Cozman	(University of São Paulo)
+- Jérôme	Mengin	(IRIT - Université de Toulouse)
+- Sylvain	Lagrue	(Université de Technologie de Compiègne)
+- Alessandro	Antonucci	(IDSIA)
+- Souhila	Kaci	(Lirmm)
+- Vaclav	Kratochvil	(UTIA)
+- Sadok	Ben Yahia	(Faculty of Sciences, Tunis)
+- Peter	Lucas	(University of Twente)
+- Patricia	Everaere	(CRIStAL-Université Lille)
+-  Jirka	Vomlel	(Academy of Sciences, Czech Republic)
+- Maria Vanina	Martinez	(ARTIFICIAL INTELLIGENCE RESEARCH INSTITUTE (IIIA - CSIC))
+- Bruno	Zanuttini	(GREYC, Normandie Univ. ; UNICAEN, CNRS, ENSICAEN)
+- Stefan	Woltran	(TU Wien)
+- Leon	van der Torre	(University of Luxembourg)
+- Florence	Le Ber	(icube)
+- Nebojsa	Ikodinovic	(Faculty of Mathematics)
+- Henri	Prade	(IRIT - CNRS)
+- Marco	Wilhelm	(TU Dortmund)
+- Denis	Maua	(University of São Paulo)
+- Davide	Petturiti	(University of Perugia)
+- Nic	Wilson	(Insight Centre for Data Analytics, School of Computer Science and IT, University College Cork)
+- Laurent	Garcia	(LERIA - Université d'Angers)
+- Frédéric	Pichon	(Université d'Artois)
+- Philippe	Leray	(LINA/DUKe - Nantes University)
+- Steven	Schockaert	(Cardiff University)
+- Gabriele	Kern-Isberner	(Technische Universitaet Dortmund)
+- Florence	Dupin de Saint-Cyr	(IRIT - Universite Paul Sabatier)
+
+# Additional reviewers
+- Sebastien Ramel (univ artois)
+- Daniele Codetta-Raiteri (uniupo.it)
+- Leila Amgoud (irit.fr)
+- Jérôme Delobelle (u-paris.fr)
+- Iván Pérez ()
+- Sebastien Ramel (univ-artois.fr)
+- Loïc Adam (hds.utc.fr)
+- Khaled Belahcene
+- Julien Rossit 
+
+# Organizing committee
+ - Zied Bouraoui (CRIL, Université d’Artois - CNRS)
+ - Said Jabbour  (CRIL, Université d’Artois - CNRS)
+ - Srdjan Vesic (CRIL, Université d’Artois - CNRS)
+ - Hanane Kteich (CRIL, Université d’Artois - CNRS)
+ - Astrid Klipfel(CRIL, Université d’Artois - CNRS)
+ - Delorme Fabien (CRIL, Université d’Artois - CNRS)
+ - Delahaye Virginie (CRIL, Université d’Artois - CNRS)
+ - Renard Frédéric (CRIL, Université d’Artois - CNRS)
