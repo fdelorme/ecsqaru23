@@ -16,6 +16,11 @@ cover_dimming_class = "bg-black-50"
 
 
 [menu]
+    [[menu.main]]
+    weight = 50
+    name = "Program"
+    identifier = "program"
+    url = "/program/"
 
     [[menu.main]]
     weight = 100
