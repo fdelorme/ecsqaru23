@@ -17,12 +17,6 @@ cover_dimming_class = "bg-black-50"
 
 [menu]
     [[menu.main]]
-    weight = 50
-    name = "Program"
-    identifier = "program"
-    url = "/program/"
-
-    [[menu.main]]
     weight = 100
     name = "Call for papers"
     identifier = "call"
@@ -63,12 +57,18 @@ cover_dimming_class = "bg-black-50"
     name = "Social events"
     identifier = "social"
     url = "/social-events/"
-
+    
     [[menu.main]]
     weight = 800
     name = "Registration"
     identifier = "registration"
     url = "/registration/"
+
+    [[menu.main]]
+    weight = 900
+    name = "Program"
+    identifier = "program"
+    url = "/program/"
 
  #   [[menu.main]]
  #   weight = 500
