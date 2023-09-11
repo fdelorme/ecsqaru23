@@ -1,5 +1,5 @@
 ---
-title: Venue
+title: " " #Venue
 featured_image: img/arras4.jpeg
 ---
 
