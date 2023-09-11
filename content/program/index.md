@@ -1,6 +1,5 @@
 ---
-title: Program
-featured_image: /img/arras3.jpeg
+featured_image: img/arras6.jpeg
 ---
 
 ## Tuesday 19 September
