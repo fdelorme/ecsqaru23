@@ -1,5 +1,6 @@
 ---
-title: Submission
+title: Call for papers
+featured_image: img/arras.jpeg
 ---
 ### PROCEEDINGS
 LECTURE NOTES IN ARTIFICIAL INTELLIGENCE 
