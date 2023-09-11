@@ -8,6 +8,7 @@ copyright = "CRIL - Univ. Artois & CNRS"
 [params]
 description = "ECSQARU 2023;ECSQARU;Conference"
 cover_dimming_class = "bg-black-50"
+featured_image = "img/arras5.jpeg"
 
 [markup]
   [markup.goldmark]

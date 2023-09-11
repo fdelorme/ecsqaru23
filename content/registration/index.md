@@ -1,5 +1,6 @@
 ---
-title: Registration
+title: " " #Registration
+featured_image: img/arras4.jpeg
 ---
 
 You can register online [here](https://www.azur-colloque.fr/DR18/inscription/inscription/114/fr)

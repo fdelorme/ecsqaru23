@@ -1,5 +1,6 @@
 ---
-title: Workshops
+title: " " #Workshops
+featured_image: img/arras.jpeg
 ---
 
 ## Workshop: explanations meet uncertainties
