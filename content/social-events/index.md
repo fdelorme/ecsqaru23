@@ -1,5 +1,5 @@
 ---
-title: Social events
+title: " " #Social events
 featured_image: img/arras6.jpeg
 ---
 

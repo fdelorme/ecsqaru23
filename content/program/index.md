@@ -1,5 +1,6 @@
 ---
 featured_image: img/arras6.jpeg
+title: " "
 ---
 
 ## Tuesday 19 September

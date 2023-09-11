@@ -1,5 +1,5 @@
 ---
-title: Accepted Papers
+title: " " #Accepted Papers
 featured_image: img/arras3.jpeg
 ---
 
