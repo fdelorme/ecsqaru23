@@ -19,7 +19,7 @@ title: " "
 
 **12:30** Lunch
 
-**14:00** Explanations meet uncertainties workshop
+**14:00** Explanations meet uncertainties workshop: [Possible to join on Zoom](https://utc-fr.zoom.us/j/81736339690)
 
 **14:00 - 14:40** Mahdi Hadj Ali, Titre: Interpreting Predictive Models through Causality: A Query-Driven Methodology
 
