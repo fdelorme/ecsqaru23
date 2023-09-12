@@ -9,13 +9,13 @@ title: " "
 
 **9:00** Neuro-Symbolic AI Workshop
 
-**9:00 - 10.00** Giuseppe Marra 
+**9:00 - 10.00** Giuseppe Marra (KU Leuven): Interpretable Neural-Symbolic Concept Reasoning
 
 **10.00 - 10.30** coffee break
 
-**10:00 - 11:00** Pasquale Minervini
+**10:00 - 11:00** Pasquale Minervini (University of Edinburgh): TBA
 
-**11:00 - 12:00** Steven Schockeart 
+**11:00 - 12:00** Steven Schockeart (Cardiff University): Aligning embeddings with symbolic knowledge: towards a tight integration of learning and reasoning
 
 **12:30** Lunch
 
