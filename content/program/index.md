@@ -7,15 +7,15 @@ title: " "
 
 **8:30** Registration
 
-**9:00** Neuro-Symbolic AI Workshop [Join on Zoom]()
+**9:00** Neuro-Symbolic AI Workshop [Join on Zoom](https://afia.asso.fr/les-journees-communes/afia-radia-2023/)
 
-**9:00 - 10.00** Giuseppe Marra (KU Leuven): Interpretable Neural-Symbolic Concept Reasoning
+**9:00 - 10:00** Steven Schockeart (Cardiff University): Aligning embeddings with symbolic knowledge: towards a tight integration of learning and reasoning 
 
-**10.00 - 10.30** coffee break
+**10:00 - 10:30** coffee break
 
-**10:00 - 11:00** Pasquale Minervini (University of Edinburgh): TBA
+**10:00 - 11:00** Giuseppe Marra (KU Leuven): Interpretable Neural-Symbolic Concept Reasoning 
 
-**11:00 - 12:00** Steven Schockeart (Cardiff University): Aligning embeddings with symbolic knowledge: towards a tight integration of learning and reasoning
+**11:00 - 12:00** Pasquale Minervini (University of Edinburgh): TBA
 
 **12:30** Lunch
 
@@ -73,7 +73,7 @@ Carole Delenne: Imperfect data and hydraulic modelling of urban drainage network
 
 **17:30 - 19:00** Visit of the squares of Arras and the belfry
 
-**19:00 - 21:00** Opening Reception at Town Hall : Tasting of local beers and cheeses
+**19:00 - 21:00** Opening Reception at Town Hall: Tasting of local beers and cheeses
 
 ## Thursday 21 September
 
@@ -109,6 +109,7 @@ Carole Delenne: Imperfect data and hydraulic modelling of urban drainage network
 - Annet Onnes, Mehdi Dastani and Silja Renooij. Normative Monitoring Using Bayesian Networks: Defining a Threshold for Conflict Detection
 
 **17:15 - 19:30** Visit the Wellington Tunnels
+
 **19:30 -  23:00** Gala Dinner at the Arras golf course
 
 
