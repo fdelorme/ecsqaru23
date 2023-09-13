@@ -15,7 +15,7 @@ title: " "
 
 **10:00 - 11:00** Giuseppe Marra (KU Leuven): Interpretable Neural-Symbolic Concept Reasoning 
 
-**11:00 - 12:00** Pasquale Minervini (University of Edinburgh): TBA
+**11:00 - 12:00** Pasquale Minervini (University of Edinburgh): Integrating Combinatorial Solvers and Neural Models
 
 **12:30** Lunch
 
