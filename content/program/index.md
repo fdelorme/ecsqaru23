@@ -33,6 +33,8 @@ title: " "
 
 **17:00 - 17:40** Mélanie Ducoffe, Titre: Don’t Lie to Me! Robust and Efficient Explainability with Verified Perturbation Analysis
 
+**17:40 -18:00**  Henri Prade, Title Uncertainty and explanations - Possibilistic and analogical settings
+
 ## Wednesday 20 September
 
 **8:00** Registration
