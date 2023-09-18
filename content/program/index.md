@@ -41,7 +41,7 @@ title: " "
 
 **9:00 - 9:15** Opening
 
-**9:15 - 10:15** Invited talk: Eduardo Fermé: On belief update according to Katsuno & Mendelzon: Novel insights.
+**9:15 - 10:15** Invited talk: Rafael Peñaloza: Mixing Time and Uncertainty. A Tale of Superpositions
 
 **10:15 - 10:35** Coffee break
 
@@ -79,7 +79,7 @@ Carole Delenne: Imperfect data and hydraulic modelling of urban drainage network
 
 ## Thursday 21 September
 
-**9:00 - 10:00** Invited talk: Rafael Peñaloza: Mixing Time and Uncertainty. A Tale of Superpositions
+**9:00 - 10:00** Invited talk: Eduardo Fermé: On belief update according to Katsuno & Mendelzon: Novel insights.
 
 **10:00 - 10:30** Coffee break
 
