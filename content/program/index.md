@@ -7,7 +7,7 @@ title: " "
 
 **8:30** Registration
 
-**9:00** Neuro-Symbolic AI Workshop [Join on Zoom](https://afia.asso.fr/les-journees-communes/afia-radia-2023/)
+**9:00** Neuro-Symbolic AI Workshop [Join on Zoom](https://univ-artois-fr.zoom.us/j/95407083789?pwd=ekVmZUY5VTdwb3Z5SmNZT3VWOW04Zz09)
 
 **9:00 - 10:00** Steven Schockeart (Cardiff University): Aligning embeddings with symbolic knowledge: towards a tight integration of learning and reasoning 
 
