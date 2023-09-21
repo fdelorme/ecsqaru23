@@ -39,13 +39,14 @@ title: " "
 
 **8:00** Registration
 
-**9:00 - 9:15** Opening
+**9:00 - 9:15** Opening 
 
-**9:15 - 10:15** Invited talk: Rafael Peñaloza: Mixing Time and Uncertainty. A Tale of Superpositions
+**9:15 - 10:15** Invited talk: Rafael Peñaloza: Mixing Time and Uncertainty. A Tale of Superpositions (chair: Zied Bouraoui)
+
 
 **10:15 - 10:35** Coffee break
 
-**10:35 - 12:15** Session 1
+**10:35 - 12:15** Session 1 (chair: Sébastien Destercke)
 
 - Christophe Marsala, Davide Petturiti and Barbara Vantaggi. Adding semantics to fuzzy similarity measures through the d-Choquet integral
 - Samira Pourkhajouei, Federico Toffano, Paolo Viappiani and Nic Wilson. An Efficient Non-Bayesian Approach for Interactive Preference Elicitation Under Noisy Preference Models
@@ -55,7 +56,8 @@ title: " "
 
 **12:25 - 13:45** Lunch
 
-**13:45 - 15:30** special session on AI and heterogeneous data
+**13:45 - 15:30** special session on AI and heterogeneous data (chair: Salem Benferhat)
+
 
 - Olivier Strauss and Agnès Rico. Handling missing values in a MacSum aggregation learning
 - Ghaith Khlifi, Ilyes Jenhani, Montassar Ben Messaoud and Mohamed Wiem Mkaouer. Multi-label Classification of Mobile Application User Reviews using Neural Language Models
@@ -64,11 +66,11 @@ title: " "
 - Juan Carlos Díaz, Jesús Medina and José Ra. Portillo. Hypergragraphs in Logic programming
 
 **15:30 - 16:05** Special session invited talk: 
-Carole Delenne: Imperfect data and hydraulic modelling of urban drainage networks
+Carole Delenne: Imperfect data and hydraulic modelling of urban drainage networks (chair: Salem Benferhat)
 
 **16:05 - 16:20** Coffee break
 
-**16:20 - 17:00** Session 3
+**16:20 - 17:00** Session 3  (chair: Srdjan Vesic)
 
 - Leila Amgoud and Vivien Beuselinck. An Equivalence Class of Gradual Semantics
 - Jérôme Delobelle, Jean-Guy Mailly and Julien Rossit. Revisiting Approximate Reasoning based on Grounded Semantics
@@ -79,11 +81,11 @@ Carole Delenne: Imperfect data and hydraulic modelling of urban drainage network
 
 ## Thursday 21 September
 
-**9:00 - 10:00** Invited talk: Eduardo Fermé: On belief update according to Katsuno & Mendelzon: Novel insights.
+**9:00 - 10:00** Invited talk: Eduardo Fermé: On belief update according to Katsuno & Mendelzon: Novel insights (chair: Kai Sauerwald)
 
 **10:00 - 10:30** Coffee break
 
-**10:30 - 12:30** Session 4
+**10:30 - 12:30** Session 4 (chair: Julien Rossit)
 
 - Joseph Mietkiewicz and Anders Madsen. Enhancing Control Room Operator Decision Making: An Application of Dynamic Influence Diagrams in Formaldehyde Manufacturing
 - Anders Madsen and Cory Butz. A Comparison of Different Marginalization Operations in Simple Propagation
@@ -94,7 +96,7 @@ Carole Delenne: Imperfect data and hydraulic modelling of urban drainage network
 
 **12:25 - 14:00** Lunch
 
-**14:00 - 15:45** Session 5
+**14:00 - 15:45** Session 5 (chair: Rafael Peñaloza)
 
 - Jean-Guy Mailly. Extension-based Semantics for Incomplete Argumentation Frameworks: Grounded Semantics and Principles
 - Loïc Adam and Sébastien Destercke. Handling inconsistency in (numerical) preferences using possibility theory
@@ -104,7 +106,7 @@ Carole Delenne: Imperfect data and hydraulic modelling of urban drainage network
 
 **15:45 - 16:05** Coffee break
 
-**16:05 - 17:05** Session 6
+**16:05 - 17:05** Session 6 (chair: Eduardo Fermé)
 
 - Shota Motoura, Ayako Hoshino, Itaru Hosomi and Kunihiko Sadamasa. A Logical Framework for User Feedback Dialogues on Hypotheses in Weighted Abduction
 - Florence Dupin de Saint-Cyr and Francis Faux. Integrating evolutionary prejudices in belief functions theory
@@ -117,11 +119,11 @@ Carole Delenne: Imperfect data and hydraulic modelling of urban drainage network
 
 ## Friday 22 September
 
-**9:15 - 10:15** Invited talk: Jesse Davis: Reasoning about Tree Ensembles
+**9:15 - 10:15** Invited talk: Jesse Davis: Reasoning about Tree Ensembles (chair Zied Bouraoui)
 
 **10:15 - 10:45** Coffee break
 
-**10:45 - 12:25** Session 7
+**10:45 - 12:25** Session 7 (chair: Jean-Guy Mailly)
 
 - Martin von Berg, Arthur Sanin and Christoph Beierle. Representing Nonmonotonic Inference Based on c-Representations as an SMT Problem
 - Saul Gebhardt and Dragan Doder. Determining preferences over extensions: a cautious approach to preference-based argumentation frameworks
@@ -131,7 +133,7 @@ Carole Delenne: Imperfect data and hydraulic modelling of urban drainage network
 
 **12:25 - 14:00** Lunch
 
-**14:00 - 15:20** Session 8 
+**14:00 - 15:20** Session 8 (chair:  Kai Sauerwald)
 
 - Jonas Philipp Haldimann and Christoph Beierle. Approximations of System W between c-Inference, System Z, and Lexicographic Inference
 - Henri Prade and Gilles Richard. First steps towards a logic of ordered pairs
